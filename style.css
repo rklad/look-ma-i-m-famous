@@ -1,0 +1,29 @@
+nav {
+    background-color:#203731;
+    font-family: 'Just Me Again Down Here', cursive;
+    font-size:3rem;
+}
+
+.bg-hero-image {
+    background-image:url(imgs/curly\ lambeau\ home.jpg);
+    background-position:center top;
+    border:3px solid #203731;
+}
+ h1 {
+    font-family: 'Just Me Again Down Here', cursive;
+    font-size:10rem;
+ }
+
+h3 {
+    font-family:'Courier New', Courier, monospace;
+}
+ 
+.green-bg {
+    background-color:#203731;
+}
+
+p.intro {
+    font-family:'Courier New', Courier, monospace;
+    font-size:1.2rem;
+}
+
