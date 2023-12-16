@@ -27,3 +27,22 @@ p.intro {
     font-size:1.2rem;
 }
 
+body {
+    background-image: url(imgs/videoblocks-old-film-black-white-with-dust-and-scratches_hgikepy9x_thumbnail-1080_01.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.home2 {
+    background-image:url(imgs/curly\ home\ 2.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    font-family:'Courier New', Courier, monospace;
+}
+
+footer {
+    background-color:#203731;
+}
