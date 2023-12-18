@@ -46,3 +46,7 @@ h2 {
 footer {
     background-color:#203731;
 }
+
+a {
+    font-size:2rem !important;
+}
