@@ -50,4 +50,37 @@ footer {
 
 a {
     font-size:2rem !important;
+    font-family: 'Just Me Again Down Here', cursive;
+}
+
+.career {
+    background-image: url(imgs/curly\ lambeau\ career.jpg);
+    background-position: center;
+}
+
+.career2 {
+    background-image: url(imgs/curly\ college.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:25rem;
+}
+
+.career3 {
+    background-image: url(imgs/lambeau\ packers.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:27rem;
+    background-position: center;
+}
+
+li {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.career4 {
+    background-image: url(imgs/lambeau\ hof.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:27rem;
+    background-position: center;
 }
