@@ -84,3 +84,29 @@ li {
     height:27rem;
     background-position: center;
 }
+
+.impact {
+    background-image:url(imgs/lambeau\ field.jpg);
+    background-position:center;
+}
+
+.impact2 {
+    background-image:url(imgs/lambeau2.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:27rem;
+    background-position: center;
+}
+
+.impact3 {
+    background-image: url(imgs/lambeau\ impact.jpg);
+    height:30rem;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center
+}
+
+p.quote {
+    font-family: 'Just Me Again Down Here', cursive;
+    font-size:2rem; 
+}
